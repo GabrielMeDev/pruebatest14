@@ -20,10 +20,10 @@ de cliente-servidor de web, con unos diez millones de usuarios reportados.
 *Cursiva letra italic* 
 
 
-![Java, logo](assets/01java.png)
+![Java, logo](/master/assets/01java.png)
 ![Java, logo](assets/02java.png)
 
-<img src="/assets/01java.png">
+
 ## Esto es un ejemplo de codigo 
 
 ![Java, codigo](assets/images/02java.png)
