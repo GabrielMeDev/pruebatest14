@@ -20,7 +20,7 @@ de cliente-servidor de web, con unos diez millones de usuarios reportados.
 *Cursiva letra italic* 
 
 
-![Java, logo](/assets/01java.png)
+![Java, logo](/assets/portafolio.png)
 ![Java, logo](/assets/02java.png)
 
 
