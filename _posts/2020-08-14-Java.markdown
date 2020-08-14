@@ -26,6 +26,6 @@ de cliente-servidor de web, con unos diez millones de usuarios reportados.
 
 ## Esto es un ejemplo de codigo 
 
-[![Java, codigo](/assets/images/02java.png)] (https://www.pexels.com/es-es/)
+![Java, codigo](/assets/images/02java.png) (https://www.pexels.com/es-es/)
 
 
