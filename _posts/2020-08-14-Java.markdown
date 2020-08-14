@@ -20,9 +20,8 @@ de cliente-servidor de web, con unos diez millones de usuarios reportados.
 *Cursiva letra italic* 
 
 
-![Java, logo](/pruebatest14/assets/portfolio.png)
-![Java, logo](/pruebatest14/assets/01java.png)
-![Java, logo](assets/02java.png)
+![Java, logo](/pruebatest14/assets/images/02java.png)
+
 
 
 ## Esto es un ejemplo de codigo 
