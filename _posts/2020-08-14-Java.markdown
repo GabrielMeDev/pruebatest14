@@ -20,8 +20,9 @@ de cliente-servidor de web, con unos diez millones de usuarios reportados.
 *Cursiva letra italic* 
 
 >Minecraft esta programado en java como base 
-![Java, logo](/assets/images/01java.png)
-![Java, logo](https://www.pexels.com/es-es/foto/ligero-persona-arte-creativo-4665930/)
+![Java, logo](/assets/01java.png)
+![Java, logo](/assets/02java.png)
+
 
 ## Esto es un ejemplo de codigo 
 
