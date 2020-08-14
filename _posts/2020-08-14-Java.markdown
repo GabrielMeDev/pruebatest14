@@ -19,7 +19,7 @@ de cliente-servidor de web, con unos diez millones de usuarios reportados.
 **Ejemplo de usos de negritas**
 *Cursiva letra italic* 
 
->Minecraft esta programado en java como base 
+
 ![Java, logo](/assets/01java.png)
 ![Java, logo](/assets/02java.png)
 
